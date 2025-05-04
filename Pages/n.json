@@ -1,0 +1,22 @@
+{
+  "Diseases": {
+    "herpes": {
+      "tile": "herpes Zosyter",
+      "about": "this is jhgidjngjheg ngdojngjvndg gjokdmgn",
+      "symptoms": {
+        "paragraph": "someth smth smth",
+        "first": "this",
+        "second": "that"
+      }
+    },
+    "smthelse": {
+      "tile": "herpes Zosyter",
+      "about": "this is jhgidjngjheg ngdojngjvndg gjokdmgn",
+      "symptoms": {
+        "paragraph": "someth smth smth",
+        "first": "this",
+        "second": "that"
+      }
+    }
+  }
+}
